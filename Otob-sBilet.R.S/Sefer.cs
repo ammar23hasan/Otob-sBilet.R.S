@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Otob_sBilet.R.S
 {
+//sefer modulu
     public abstract class Sefer : IRezervasyon
     {
         public string Nereden { get; set; }
